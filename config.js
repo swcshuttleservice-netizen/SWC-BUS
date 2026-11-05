@@ -6,7 +6,7 @@
 
 window.SWC_CONFIG = {
   APPS_SCRIPT_URL: "https://script.google.com/macros/s/AKfycbzUordi3CAJVGTJFPFjX9OXwMBkHTkW1LlGGExiAqq5hFQVAH_PvHOJgJP8nPxlLkU4/exec",
-  GOOGLE_CLIENT_ID: "71909220285-647djv3jpier18p19htkd5ia6obp192n.apps.googleusercontent.com",
+  GOOGLE_CLIENT_ID: "918354639440-sh76jtfromo8p0520cnlcrhq7rjjsjps.apps.googleusercontent.com",
   RAZORPAY_KEY_ID: "__RAZORPAY_KEY_ID__", // public key only — RAZORPAY_KEY_SECRET never goes in frontend
   // Use rzp_live_... for real payments. rzp_test_... only accepts Razorpay test
   // instruments (success@razorpay / test cards); real UPI apps will fail.
